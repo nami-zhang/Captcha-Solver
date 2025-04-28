@@ -1,0 +1,13 @@
+# Core
+torch
+transformers
+datasets
+tqdm
+
+# Vision & image handling
+Pillow
+captcha
+
+# Web API
+Flask
+flask-cors
